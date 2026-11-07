@@ -1,7 +1,7 @@
 #          Predicting Temperature Swings With Linear Regression
 ## Team Members and Roles
 - Nirbhay Singh Gautam - Documentation Lead
-- Snehi Singh - Execution Lead
+- Snehit Singh - Execution Lead
 - Bannoth Veda Kailash Naik - PPT Lead
 - Anamika Pal - Video Lead 
 ## Dataset Link
